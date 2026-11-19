@@ -1,4 +1,4 @@
-%%writefile .github/workflows/ci.yml
+
 
 name: Movie Rating Prediction CI
 
